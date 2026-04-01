@@ -1,5 +1,7 @@
 # CircuitLab
 
+![CircuitLab demo](demo.png)
+
 CircuitLab is an interactive drag-and-drop quantum circuit playground built with **Python**, **Tkinter**, and **NVIDIA CUDA-Q**. It lets you assemble small circuits visually, simulate them, inspect the final state vector, and run shot-based measurements with a histogram.
 
 ## Features
