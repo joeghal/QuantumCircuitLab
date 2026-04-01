@@ -1,0 +1,4 @@
+cuda-quantum
+numpy
+pillow
+pytest
