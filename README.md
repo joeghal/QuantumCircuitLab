@@ -55,12 +55,6 @@ pip install -r requirements.txt
 python circuitlab.py
 ```
 
-If you already use the local virtual environment in this repository:
-
-```bash
-/mnt/c/Users/joegh/Git/CircuitLab/venv/bin/python /mnt/c/Users/joegh/Git/CircuitLab/circuitlab.py
-```
-
 ## Running tests
 
 ```bash
